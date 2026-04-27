@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("");
+declare_id!("Agc7V4RopZxV1JnpyQWrLPtKSLjcDk5RMjgNQXHvk2Gc");
 
 #[program]
 pub mod gamevault {
